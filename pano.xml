@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.10" apprev="18007" start="node31">
+  <panorama id="node9">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="31/01/2021 12:57 م" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node9" title="EL Majlis ">
+      <mapcoords x="1.23047" y="-0.391388" y_floorplan_percent="24.5056" mapid="FloorPlan02" x_floorplan_percent="70"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node19}" tilt="3.4" description="" id="Point02" skinid="door" pan="-266.23" target="-178.6/-1.9/70.0" title="Entrance"/>
+      <hotspot url="{node10}" tilt="-26.77" description="" id="Point01" skinid="ht_node" pan="-262.32" target="$fwd" title="El Majlis"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="21/02/2021 04:38 م" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node10" title="El Majlis">
+      <mapcoords x="1.02722" y="-0.428467" y_floorplan_percent="26.8272" mapid="FloorPlan02" x_floorplan_percent="58.4375"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node24}" tilt="-3.05" description="" id="Point01" skinid="door" pan="-194.45" target="-5.4/9.3/70.0" title="El Majlis WC" distance="30"/>
+      <hotspot url="{node19}" tilt="1.02" description="" id="Point02" skinid="door" pan="-179.45" target="$fwd" title="Entrance"/>
+      <hotspot url="{node9}" tilt="-26.77" description="" id="Point03" skinid="ht_node" pan="-356.27" target="$fwd" title="EL Majlis "/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="01/02/2021 09:09 ص" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node11" title="Bedroom ">
+      <mapcoords x="1.12473" y="-1.17416" y_floorplan_percent="73.5168" mapid="FloorPlan02" x_floorplan_percent="63.9844"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node12}" tilt="-24.46" description="" id="Point01" skinid="ht_node" pan="-253.18" target="6.5/-4.4/70.0" title="Bedroom"/>
+      <hotspot url="{node18}" tilt="2.34" description="" id="Point02" skinid="door" pan="-257.91" target="102.1/0.0/70.0" title="corridor"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input width="1250" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1250" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1250" height="1250" predecode="0" preload="0"/>
+      <level width="625" height="625" predecode="0" preload="0"/>
+      <level width="312" height="312" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="22/02/2021 10:42 ص" latitude="0.00000000" comment="" tags="render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node12" title="Bedroom">
+      <mapcoords x="1.15082" y="-0.97229" y_floorplan_percent="60.877" mapid="FloorPlan02" x_floorplan_percent="65.4688"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node11}" tilt="-33.47" description="" id="Point01" skinid="ht_node" pan="-178.31" target="-89.8/-0.4/70.0" title="Bedroom "/>
+      <hotspot url="{node18}" tilt="-9.17" description="" id="Point02" skinid="door" pan="-345.15" target="83.3/0.4/70.0" title="corridor"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="07/02/2021 12:42 م" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node13" title="Master bedroom Bathroom">
+      <mapcoords x="0.88028" y="-0.98465" y_floorplan_percent="61.6509" mapid="FloorPlan02" x_floorplan_percent="50.0781"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node22}" tilt="-9.38" description="" id="Point01" skinid="door" pan="-286.71" target="-63.5/-24.9/70.0" title="Master bedroom"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="09/02/2021 04:12 م" latitude="" comment="" tags="render 360  MASAYA 28-2" description="" heading="0" author="" info="" source="" longitude="" customnodeid="" copyright="" nodeid="node14" title=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="23/02/2021 11:22 ص" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node15" title="Bedroom 2">
+      <mapcoords x="1.11099" y="-0.727844" y_floorplan_percent="45.5718" mapid="FloorPlan02" x_floorplan_percent="63.2031"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node18}" tilt="-26.92" description="" id="Point02" skinid="door" pan="-208.26" target="87.0/-9.1/70.0" title="corridor"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="" latitude="" comment="" tags="render 360  MASAYA 28-2" description="" heading="0" author="" info="" source="" longitude="" customnodeid="" copyright="" nodeid="node16" title=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="24/02/2021 12:11 م" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node17" title="corridor">
+      <mapcoords x="0.75531" y="-0.804749" y_floorplan_percent="50.3869" mapid="FloorPlan02" x_floorplan_percent="42.9688"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node18}" tilt="-20.38" description="" id="Point01" skinid="ht_node" pan="-89.36" target="-89.0/-2.4/70.0" title="corridor"/>
+      <hotspot url="{node23}" tilt="1.69" description="" id="Point02" skinid="door" pan="-89.94" target="" title="Main bathroom"/>
+      <hotspot url="{node26}" tilt="-26.9" description="" id="Point03" skinid="ht_node" pan="-270.92" target="0.0/0.0/70.0" title="Reception"/>
+      <hotspot url="{node20}" tilt="-14.06" description="" id="Point04" skinid="door" pan="-305.85" target="46.6/-1.6/70.0" title="Kitchen"/>
+      <hotspot url="{node22}" tilt="-15.57" description="" id="Point05" skinid="door" pan="-230.6" target="-55.7/-14.0/70.0" title="Master bedroom"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="24/02/2021 12:11 م" latitude="0.00000000" comment="" tags="render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node18" title="corridor">
+      <mapcoords x="1.08078" y="-0.804749" y_floorplan_percent="50.3869" mapid="FloorPlan02" x_floorplan_percent="61.4844"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node17}" tilt="-21.6" description="" id="Point01" skinid="ht_node" pan="-269" target="80.6/-2.7/70.0" title="corridor"/>
+      <hotspot url="{node26}" tilt="-13.15" description="" id="Point02" skinid="ht_node" pan="-269.73" target="0.0/0.0/70.0" title="Reception"/>
+      <hotspot url="{node23}" tilt="-2.34" description="" id="Point03" skinid="door" pan="-88.62" target="" title="Main bathroom"/>
+      <hotspot url="{node12}" tilt="-10.06" description="" id="Point04" skinid="door" pan="-117.47" target="-157.3/-4.7/70.0" title="Bedroom"/>
+      <hotspot url="{node15}" tilt="-11.07" description="" id="Point05" skinid="door" pan="-63.01" target="" title="Bedroom 2"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="28/02/2021 08:04 م" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node19" title="Entrance">
+      <mapcoords x="0.660553" y="-0.399628" y_floorplan_percent="25.0215" mapid="FloorPlan02" x_floorplan_percent="37.5781"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node10}" tilt="-1.63" description="" id="Point01" skinid="door" pan="-5.32" target="0.0/0.0/70.0" title="El Majlis"/>
+      <hotspot url="{node30}" tilt="-5.56" description="" id="Point02" skinid="door" pan="-333.9" target="90.4/-7.9/70.0" title="Dinning"/>
+      <hotspot url="{node31}" tilt="-4.01" description="" id="Point03" skinid="door" pan="-181.17" target="" title="Apartment Entrance"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="07/02/2021 01:03 م" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node20" title="Kitchen">
+      <mapcoords x="0.832214" y="-0.637207" y_floorplan_percent="39.8968" mapid="FloorPlan02" x_floorplan_percent="47.3438"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node17}" tilt="-3.67" description="" id="Point01" skinid="door" pan="-119.3" target="93.2/-5.0/70.0" title="corridor"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input width="1125" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1125" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1125" height="1125" predecode="0" preload="0"/>
+      <level width="562" height="562" predecode="0" preload="0"/>
+      <level width="281" height="281" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="01/02/2021 10:49 ص" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node21" title="Master bedroom">
+      <mapcoords x="0.797882" y="-1.26343" y_floorplan_percent="79.1058" mapid="FloorPlan02" x_floorplan_percent="45.3906"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node22}" tilt="-28.34" description="" id="Point01" skinid="ht_node" pan="-253.83" target="80.1/-2.7/70.0" title="Master bedroom"/>
+      <hotspot url="{node17}" tilt="0.56" description="" id="Point02" skinid="door" pan="-261.91" target="93.4/-4.9/70.0" title="corridor"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="24/02/2021 12:11 م" latitude="0.00000000" comment="" tags="render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node22" title="Master bedroom">
+      <mapcoords x="0.720978" y="-1.02722" y_floorplan_percent="64.3164" mapid="FloorPlan02" x_floorplan_percent="41.0156"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node13}" tilt="-12.3" description="" id="Point01" skinid="door" pan="-324.18" target="0.0/0.0/70.0" title="Master bedroom Bathroom"/>
+      <hotspot url="{node21}" tilt="-29.46" description="" id="Point02" skinid="ht_node" pan="-60.7" target="0.0/0.0/70.0" title="Master bedroom"/>
+      <hotspot url="{node18}" tilt="-0.03" description="" id="Point03" skinid="door" pan="-281.36" target="-38.9/-4.1/100.0" title="corridor"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="08/02/2021 09:14 ص" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node23" title="Main bathroom">
+      <mapcoords x="1.33072" y="-0.847321" y_floorplan_percent="53.0525" mapid="FloorPlan02" x_floorplan_percent="75.7031"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node18}" tilt="-11.65" description="" id="Point01" skinid="ht_node" pan="-261.38" target="92.1/-4.2/70.0" title="corridor"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="07/02/2021 07:54 م" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node24" title="El Majlis WC">
+      <mapcoords x="0.910492" y="-0.310364" y_floorplan_percent="19.4325" mapid="FloorPlan02" x_floorplan_percent="51.7969"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node10}" tilt="-5.08" description="" id="Point01" skinid="door" pan="-163.47" target="2.7/-8.1/70.0" title="El Majlis"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="24/02/2021 12:11 م" latitude="0.00000000" comment="" tags="render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node26" title="Reception">
+      <mapcoords x="0.605621" y="-0.814362" y_floorplan_percent="50.9888" mapid="FloorPlan02" x_floorplan_percent="34.4531"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node25}" tilt="-28.95" description="" id="Point01" skinid="ht_node" pan="-265.26" target="$fwd" title="Reception"/>
+      <hotspot url="{node19}" tilt="3" description="" id="Point03" skinid="door" pan="-96.87" target="" title="Entrance"/>
+      <hotspot url="{node17}" tilt="-27.36" description="" id="Point04" skinid="ht_node" pan="-183.19" target="-89.8/-6.2/70.0" title="corridor"/>
+      <hotspot url="{node18}" tilt="-11.91" description="" id="Point05" skinid="ht_node" pan="-181.78" target="-87.6/-1.1/70.0" title="corridor"/>
+      <hotspot url="{node23}" tilt="4.76" description="" id="Point06" skinid="door" pan="-180.92" target="1.7/-0.5/70.0" title="Main bathroom"/>
+      <hotspot url="{node22}" tilt="-4.1" description="" id="Point07" skinid="door" pan="-199.96" target="-58.7/-13.1/70.0" title="Master bedroom"/>
+      <hotspot url="{node20}" tilt="-5.64" description="" id="Point08" skinid="door" pan="-165.62" target="77.6/-4.9/70.0" title="Kitchen"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="01/02/2021 08:30 ص" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node25" title="Reception">
+      <mapcoords x="0.583649" y="-1.00937" y_floorplan_percent="63.1986" mapid="FloorPlan02" x_floorplan_percent="33.2031"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node26}" tilt="-20.56" description="" id="Point02" skinid="ht_node" pan="-97.38" target="-91.3/-7.1/70.0" title="Reception"/>
+      <hotspot url="{node28}" tilt="-5.1" description="" id="Point01" skinid="door" pan="-286.35" target="-2.9/-49.3/70.0" title="Terras"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input width="320" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="320" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="320" height="320" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="349.33">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="" latitude="0.00000000" comment="" tags="First|render 360  MASAYA 28-2" description="" heading="349.33" author="" info="" source="" longitude="0.00000000" customnodeid="" copyright="" nodeid="node28" title="Terras">
+      <mapcoords x="0.532837" y="-1.2854" y_floorplan_percent="80.4815" mapid="FloorPlan02" x_floorplan_percent="30.3125"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node25}" tilt="-10.75" description="" id="Point01" skinid="door" pan="-181.38" target="-88.3/-9.9/70.0" title="Reception"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="22/04/2021 04:07 م" latitude="" comment="" tags="First|Pano2VR6" description="" heading="0" author="" info="" source="" longitude="" customnodeid="" copyright="" nodeid="node30" title="Dinning">
+      <mapcoords x="0.612488" y="-0.55481" y_floorplan_percent="34.7377" mapid="FloorPlan02" x_floorplan_percent="34.8438"/>
+    </userdata>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node26}" tilt="-23.29" description="" id="Point01" skinid="ht_node" pan="-263.45" target="88.4/-7.5/100.0" title="Reception"/>
+      <hotspot url="{node19}" tilt="-3.81" description="" id="Point02" skinid="door" pan="-101.79" target="40.0/-0.6/100.0" title="Entrance"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input width="1500" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-12.13" projection="4" pan="-1.43" fov="70"/>
+      <min tilt="-90" pan="0" fov="70"/>
+      <max scaletofit="1" fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="100"/>
+    </view>
+    <userdata datetime="22/04/2021 03:06 م" latitude="" comment="" tags="First|Pano2VR6" description="" heading="0" author="" info="" source="" longitude="" customnodeid="" copyright="" nodeid="node31" title="Apartment Entrance"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label backgroundcolor="0xffffff" borderradius="1" width="180" bordercolor="0x000000" textcolor="0x000000" enabled="1" height="0" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot url="{node19}" tilt="-2.85" description="" id="Point01" skinid="door" pan="-254.87" target="-1.3/-2.7/100.0" title="Entrance"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomafteroutfov="20" zoomin="2" blendcolor="0x000000" zoomspeed="2" enabled="1" zoomoutpause="1" blendtime="0.5" zoomout="0" zoomfov="30" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" rubberband="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" latitude="" comment="" tags="" description="" heading="0" author="" info="" source="" longitude="" customnodeid="" copyright="" nodeid="master" title=""/>
+  </masternode>
+  <map floorplannorth="0" width="1280" transparent="0" id="FloorPlan02" height="1163" bgcolor="rgba(255, 255, 255, 1)" tileformat="jpg" title="" zoomlevels="1" type="file"/>
+</tour>
